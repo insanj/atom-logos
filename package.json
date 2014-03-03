@@ -1,17 +1,17 @@
 {
-  "name": "language-objective-c",
-  "version": "0.9.0",
-  "description": "Objective-C language support in Atom",
+  "name": "language-logos",
+  "version": "0.9.1",
+  "description": "Logos language support in Atom",
   "engines": {
     "atom": "*",
     "node": "*"
   },
-  "homepage": "http://atom.github.io/language-objective-c",
+  "homepage": "https://github.com/insanj/atom-logos",
   "repository": {
     "type": "git",
-    "url": "https://github.com/atom/language-objective-c.git"
+    "url": "https://github.com/insanj/atom-logos.git"
   },
-  "license": "MIT",
+  "license": "BSD",
   "bugs": {
     "url": "https://github.com/atom/language-objective-c/issues"
   }
